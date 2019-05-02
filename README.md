@@ -40,7 +40,7 @@ Read [the instructions](https://github.com/RestComm/jss7/wiki/Build-jSS7-from-So
 *  SMSC Gateway https://github.com/RestComm/smscgateway
 *  USSD Gateway https://github.com/RestComm/ussdgateway
 *  EIR https://github.com/RestComm/jeir/
-*  GMLC https://github.com/RestComm/gmlc/
+*  GMLC https://github.com/FerUy/restcomm-gmlc
 *  MMSC https://github.com/RestComm/mmscgateway
 
 ## All Open Source RestComm Projects
